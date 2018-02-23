@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](http://santiagog.com)
+![This is an image.](https://santiagog.com)
