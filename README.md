@@ -1,28 +1,23 @@
-# This is a large heading
+# Santiago Gallo 
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Austin, in the state of Texas, in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Deportes
 
-1. This is
-2. an ordered
-3. list
+1. Rugby
+2. Futbol
+3. Polo
 
-Here is `some code` in the middle of a sentence.
+### Comidas
 
-```
-This is
-a block
-of code
-```
+- *Ravioles* de ricota
+- milanesas **napolitanas*
+- Asado
 
-Here is how you make [a link](http://santiagog.com/).
+###### Contacto
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Ponete en contacto en [Twitter](https://twitter.com/SantoTrade). 
+Mira mi certificacion [AWS](http://santiagog.com/certificate)
