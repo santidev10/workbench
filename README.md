@@ -23,6 +23,6 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://santiagog.com/).
+Here is how you make [a link](http://santiagog.com/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
